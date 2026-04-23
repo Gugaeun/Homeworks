@@ -5,7 +5,7 @@ Python, C++, HTML 등을 활용한 다양한 실습과 프로젝트를 포함하
 
 ## 📁 Repository Structure
 
-### Python
+### 🐍 Python
 -  [py_homework](https://github.com/Gugaeun/Homeworks/tree/main/py_homework)
   - 🎳 볼링 점수 계산 프로그램
       - 랜덤 게임 생성 및 점수 계산 구현
