@@ -1,4 +1,4 @@
-# 📚 Homeworks Repository
+# 📚 Practicum Repository
 
 대학교 수업에서 수행한 과제들을 정리한 저장소입니다.  
 Python, C++, HTML 등을 활용한 다양한 실습과 프로젝트를 포함하고 있습니다.
@@ -13,7 +13,7 @@ Python, C++, HTML 등을 활용한 다양한 실습과 프로젝트를 포함하
       - 프레임별 점수 출력 기능
       - 결과 화면 예시
         <img width="706" height="282" alt="스크린샷 2026-04-23 153312" src="https://github.com/user-attachments/assets/e6f19c2d-1b04-4268-aa72-f499719d1fe8" />
-      - [예시 코드](https://github.com/Gugaeun/Practicum/blob/main/py_homework/bowling_flet.py)
+      - [예시 코드](https://github.com/Gugaeun/Practicum/blob/main/py_Practicum/bowling_flet.py)
 
   - 🛒 장바구니 프로그램
       - UI 기반 상품 추가/삭제 기능
@@ -25,7 +25,7 @@ Python, C++, HTML 등을 활용한 다양한 실습과 프로젝트를 포함하
   - 🧮 계산기 프로그램
     - 결과 화면 예시
       <img width="353" height="312" alt="스크린샷 2026-04-23 153543" src="https://github.com/user-attachments/assets/fa65c8c3-0d3f-48f8-af9e-34b61a07a957" />
-    - [예시 코드](https://github.com/Gugaeun/Practicum/blob/main/py_homework/Cal.py)
+    - [예시 코드](https://github.com/Gugaeun/Practicum/blob/main/py_Practicum/Cal.py)
     
 ### 💻 C++
 -  [C++ homewrk](https://github.com/Gugaeun/Practicum/tree/main/C%2B%2B%20homework)
@@ -40,7 +40,7 @@ Python, C++, HTML 등을 활용한 다양한 실습과 프로젝트를 포함하
   - CSS 를 사용하여 HTML UI 에서 Web UI 처럼 되도록 작업
   - 결과 화면 예시
     <img width="800" height="1600" alt="strawberryFestival" src="https://github.com/user-attachments/assets/0aa2b499-9ee6-4dd6-8802-4c869d0e7e0a" />
-  - [예시 코드](https://github.com/Gugaeun/Practicum/blob/main/Web_homework/palaces(homework).html)
+  - [예시 코드](https://github.com/Gugaeun/Practicum/blob/main/Web_Practicum/palaces(homework).html)
 
 ### 👁 Computer Vision(python)
 -  [CV_homework](https://github.com/Gugaeun/Practicum/tree/main/CV_homework)
@@ -48,7 +48,7 @@ Python, C++, HTML 등을 활용한 다양한 실습과 프로젝트를 포함하
   - 사진을 가져와 노이즈 제거, 윤곽선 강조 등 영상처리에서 사용하는 기능 실습
   - 과제 제출 예시
     <img width="800" height="600" alt="스크린샷 2026-04-21 181810" src="https://github.com/user-attachments/assets/dd9b7bb9-f894-422d-9a9b-940c506cf50b" />
-  - [예시 코드](https://github.com/Gugaeun/Practicum/blob/main/CV_homework/appleSobelcanny0417.py)
+  - [예시 코드](https://github.com/Gugaeun/Practicum/blob/main/CV_Practicum/appleSobelcanny0417.py)
  
 ## 🛠 사용 기술
   - Python
